@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# RobotFriends React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is a simple project I created in learning the React 
 ## Available Scripts
 
 In the project directory, you can run:
